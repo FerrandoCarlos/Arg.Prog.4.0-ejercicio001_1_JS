@@ -1,0 +1,19 @@
+form >*{
+    display: block;
+}
+input{
+    margin-bottom: 20px;
+}
+
+#validation strong{
+    color:black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.error{
+    color: red; 
+}
+
+.exito{
+    color: green;
+}
